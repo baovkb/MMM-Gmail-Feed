@@ -1,0 +1,26 @@
+.MMM-Gmail-Feed th,td {
+    text-align: left;
+    padding: 8px 10px;
+}
+
+.MMM-Gmail-Feed .left-align {
+    text-align: left;
+    padding-left: 0;
+    max-width: 75;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.MMM-Gmail-Feed .right-align {
+    text-align: right;
+    padding-right: 0;
+    padding-left: 20px;
+}
+
+.MMM-Gmail-Feed .title {
+    max-width: 250px;
+    padding: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-align: center;
+}
